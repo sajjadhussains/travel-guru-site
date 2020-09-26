@@ -1,0 +1,62 @@
+#root{
+    background-image: linear-gradient(rgba(0, 0, 0,0.5), rgba(0, 0, 0,0.5)),url(Image/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.travel-form-control{
+    width:60%;
+    margin:0 auto;
+}
+.travel-form{
+    background-color:white;
+    padding: 30px;
+    border: 1px solid black;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 5px;
+}
+.travel-form label{
+    margin: 0;
+    padding: 0;
+}
+.travel-form input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 10px 10px 10px 10px;
+    background:lightgray;
+    margin: 0px 5px 20px 5px;
+    outline: none;
+}
+.googleSignIn{
+    padding: 10px 30px;
+    border: 1px solid white;
+    color: white;
+    display: block;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+.googleSignIn img{
+    height: 40px;
+    margin: 0;
+    display: block;
+    padding: 0 10px;
+}
+.googleSignIn p{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+.booking-image{
+    height:100px;
+    width:50px;
+}
+.booking-image img{
+    width:100%;
+}
+.google-map{
+    height:60%;
+    width:50%;
+}
